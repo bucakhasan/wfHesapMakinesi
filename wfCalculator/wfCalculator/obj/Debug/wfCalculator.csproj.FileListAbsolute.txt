@@ -1,0 +1,9 @@
+C:\Users\student2\Documents\ERP-6\wfCalculator\wfCalculator\bin\Debug\wfCalculator.exe.config
+C:\Users\student2\Documents\ERP-6\wfCalculator\wfCalculator\bin\Debug\wfCalculator.exe
+C:\Users\student2\Documents\ERP-6\wfCalculator\wfCalculator\bin\Debug\wfCalculator.pdb
+C:\Users\student2\Documents\ERP-6\wfCalculator\wfCalculator\obj\Debug\wfCalculator.csprojResolveAssemblyReference.cache
+C:\Users\student2\Documents\ERP-6\wfCalculator\wfCalculator\obj\Debug\wfCalculator.Form1.resources
+C:\Users\student2\Documents\ERP-6\wfCalculator\wfCalculator\obj\Debug\wfCalculator.Properties.Resources.resources
+C:\Users\student2\Documents\ERP-6\wfCalculator\wfCalculator\obj\Debug\wfCalculator.csproj.GenerateResource.Cache
+C:\Users\student2\Documents\ERP-6\wfCalculator\wfCalculator\obj\Debug\wfCalculator.exe
+C:\Users\student2\Documents\ERP-6\wfCalculator\wfCalculator\obj\Debug\wfCalculator.pdb
